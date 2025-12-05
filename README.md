@@ -32,9 +32,14 @@ MODEL GRAPH:
 <img width="678" height="334" alt="image" src="https://github.com/user-attachments/assets/12577201-466d-4ed0-ad78-32e92a947c6f" />
 
 TABULATION:
+<img width="1280" height="773" alt="image" src="https://github.com/user-attachments/assets/fbee574d-e129-49ef-8c54-66bf7af12d0e" />
+
+<img width="600" height="1068" alt="image" src="https://github.com/user-attachments/assets/e452a1b7-3f94-4dda-a45c-ed1831c01154" />
 
 
 GRAPH: 
+<img width="600" height="1280" alt="image" src="https://github.com/user-attachments/assets/74cb667c-8154-4d2e-b522-78a8bf9ec18c" />
+
 
 
 RESULT:
